@@ -44,3 +44,17 @@ nav{
   justify-content: space-around;
   align-items: center;
 }
+
+.logo{
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.logo span{
+  color: #619f69;
+  text-shadow: 0 0 10px #619f69;
+}
+
+.nav-container .links{
+  display: flex;
+}
