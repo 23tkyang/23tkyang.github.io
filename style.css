@@ -55,6 +55,18 @@ nav{
   text-shadow: 0 0 10px #619f69;
 }
 
+.hamburg,
+.cancel{
+  cursor: pointer;
+  position: absolute;
+  right: 15px;
+  top: 10px;
+  color: black;
+  opacity: 0;
+  pointer-events: none;
+  font-size: clamp(2.5rem, 0.5rem + 5vw, 3rem);
+}
+
 .nav-container .links{
   display: flex;
 }
