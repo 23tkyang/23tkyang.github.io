@@ -80,3 +80,8 @@ nav{
   font-weight: 550;
   transition: 0.3s linear;
 }
+
+.main-container .content {
+  color: #00328f;
+  width: 40%;
+}
